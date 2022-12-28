@@ -1,0 +1,5 @@
+1 technicalWriting
+2 problemSolving
+
+1 accounting
+3 operations
